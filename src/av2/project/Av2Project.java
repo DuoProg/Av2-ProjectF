@@ -11,10 +11,10 @@ public class Av2Project {
 
 
 	private static void showBackQtd() {
-        System.out.println("\nVocÃª ja comprou esse item,"
+        System.out.println("\nVocê ja comprou esse item,"
         + "caso queria mudar a quantidade comprada,"
         + "volte pro Menu Inicial e aperte na "
-        + "OpÃ§Ã£o 5 (Carrinho APSMart");
+        + "Opção 5 (Carrinho APSMart");
     }
     
     
